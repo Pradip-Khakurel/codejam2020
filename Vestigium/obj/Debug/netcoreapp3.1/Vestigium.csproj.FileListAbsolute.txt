@@ -1,0 +1,13 @@
+C:\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.exe
+c:\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.deps.json
+c:\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.runtimeconfig.json
+c:\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.runtimeconfig.dev.json
+C:\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.dll
+C:\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.pdb
+C:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.csprojAssemblyReference.cache
+C:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.csproj.CoreCompileInputs.cache
+C:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.AssemblyInfoInputs.cache
+C:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.AssemblyInfo.cs
+C:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.dll
+C:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.pdb
+c:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.genruntimeconfig.cache

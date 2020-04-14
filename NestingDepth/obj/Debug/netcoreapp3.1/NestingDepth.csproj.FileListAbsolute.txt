@@ -1,0 +1,13 @@
+C:\dotnet\codejam2020\NestingDepth\obj\Debug\netcoreapp3.1\NestingDepth.csprojAssemblyReference.cache
+C:\dotnet\codejam2020\NestingDepth\obj\Debug\netcoreapp3.1\NestingDepth.csproj.CoreCompileInputs.cache
+C:\dotnet\codejam2020\NestingDepth\obj\Debug\netcoreapp3.1\NestingDepth.AssemblyInfoInputs.cache
+C:\dotnet\codejam2020\NestingDepth\obj\Debug\netcoreapp3.1\NestingDepth.AssemblyInfo.cs
+C:\dotnet\codejam2020\NestingDepth\bin\Debug\netcoreapp3.1\NestingDepth.exe
+C:\dotnet\codejam2020\NestingDepth\bin\Debug\netcoreapp3.1\NestingDepth.deps.json
+C:\dotnet\codejam2020\NestingDepth\bin\Debug\netcoreapp3.1\NestingDepth.runtimeconfig.json
+C:\dotnet\codejam2020\NestingDepth\bin\Debug\netcoreapp3.1\NestingDepth.runtimeconfig.dev.json
+C:\dotnet\codejam2020\NestingDepth\bin\Debug\netcoreapp3.1\NestingDepth.dll
+C:\dotnet\codejam2020\NestingDepth\bin\Debug\netcoreapp3.1\NestingDepth.pdb
+C:\dotnet\codejam2020\NestingDepth\obj\Debug\netcoreapp3.1\NestingDepth.dll
+C:\dotnet\codejam2020\NestingDepth\obj\Debug\netcoreapp3.1\NestingDepth.pdb
+C:\dotnet\codejam2020\NestingDepth\obj\Debug\netcoreapp3.1\NestingDepth.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\dotnet\codejam2020\Resab\bin\Debug\netcoreapp3.1\Resab.exe
+C:\dotnet\codejam2020\Resab\bin\Debug\netcoreapp3.1\Resab.deps.json
+C:\dotnet\codejam2020\Resab\bin\Debug\netcoreapp3.1\Resab.runtimeconfig.json
+C:\dotnet\codejam2020\Resab\bin\Debug\netcoreapp3.1\Resab.runtimeconfig.dev.json
+C:\dotnet\codejam2020\Resab\bin\Debug\netcoreapp3.1\Resab.dll
+C:\dotnet\codejam2020\Resab\bin\Debug\netcoreapp3.1\Resab.pdb
+C:\dotnet\codejam2020\Resab\obj\Debug\netcoreapp3.1\Resab.csprojAssemblyReference.cache
+C:\dotnet\codejam2020\Resab\obj\Debug\netcoreapp3.1\Resab.csproj.CoreCompileInputs.cache
+C:\dotnet\codejam2020\Resab\obj\Debug\netcoreapp3.1\Resab.AssemblyInfoInputs.cache
+C:\dotnet\codejam2020\Resab\obj\Debug\netcoreapp3.1\Resab.AssemblyInfo.cs
+C:\dotnet\codejam2020\Resab\obj\Debug\netcoreapp3.1\Resab.dll
+C:\dotnet\codejam2020\Resab\obj\Debug\netcoreapp3.1\Resab.pdb
+C:\dotnet\codejam2020\Resab\obj\Debug\netcoreapp3.1\Resab.genruntimeconfig.cache
