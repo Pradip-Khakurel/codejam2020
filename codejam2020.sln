@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParentingPartnering", "Pare
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resab", "Resab\Resab.csproj", "{59A3A1C7-BA09-455F-9286-B8FE852AEE7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expogo", "Expogo\Expogo.csproj", "{D74459FA-A39D-42C4-B846-B5B4999B146F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,17 @@ Global
 		{59A3A1C7-BA09-455F-9286-B8FE852AEE7A}.Release|x64.Build.0 = Release|Any CPU
 		{59A3A1C7-BA09-455F-9286-B8FE852AEE7A}.Release|x86.ActiveCfg = Release|Any CPU
 		{59A3A1C7-BA09-455F-9286-B8FE852AEE7A}.Release|x86.Build.0 = Release|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Debug|x64.Build.0 = Debug|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Debug|x86.Build.0 = Debug|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Release|x64.ActiveCfg = Release|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Release|x64.Build.0 = Release|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Release|x86.ActiveCfg = Release|Any CPU
+		{D74459FA-A39D-42C4-B846-B5B4999B146F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -11,3 +11,16 @@ C:\dotnet\codejam2020\ParentingPartnering\bin\Debug\netcoreapp3.1\ParentingPartn
 C:\dotnet\codejam2020\ParentingPartnering\obj\Debug\netcoreapp3.1\ParentingPartnering.dll
 C:\dotnet\codejam2020\ParentingPartnering\obj\Debug\netcoreapp3.1\ParentingPartnering.pdb
 C:\dotnet\codejam2020\ParentingPartnering\obj\Debug\netcoreapp3.1\ParentingPartnering.genruntimeconfig.cache
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\bin\Debug\netcoreapp3.1\ParentingPartnering.exe
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\bin\Debug\netcoreapp3.1\ParentingPartnering.deps.json
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\bin\Debug\netcoreapp3.1\ParentingPartnering.runtimeconfig.json
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\bin\Debug\netcoreapp3.1\ParentingPartnering.runtimeconfig.dev.json
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\bin\Debug\netcoreapp3.1\ParentingPartnering.dll
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\bin\Debug\netcoreapp3.1\ParentingPartnering.pdb
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\obj\Debug\netcoreapp3.1\ParentingPartnering.csprojAssemblyReference.cache
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\obj\Debug\netcoreapp3.1\ParentingPartnering.csproj.CoreCompileInputs.cache
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\obj\Debug\netcoreapp3.1\ParentingPartnering.AssemblyInfoInputs.cache
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\obj\Debug\netcoreapp3.1\ParentingPartnering.AssemblyInfo.cs
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\obj\Debug\netcoreapp3.1\ParentingPartnering.dll
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\obj\Debug\netcoreapp3.1\ParentingPartnering.pdb
+C:\Users\sahos\dotnet\codejam2020\ParentingPartnering\obj\Debug\netcoreapp3.1\ParentingPartnering.genruntimeconfig.cache

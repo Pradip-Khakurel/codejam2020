@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\codejam2020\\Resab\\Resab.csproj": {}
+    "C:\\Users\\sahos\\dotnet\\codejam2020\\Resab\\Resab.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\codejam2020\\Resab\\Resab.csproj": {
+    "C:\\Users\\sahos\\dotnet\\codejam2020\\Resab\\Resab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\codejam2020\\Resab\\Resab.csproj",
+        "projectUniqueName": "C:\\Users\\sahos\\dotnet\\codejam2020\\Resab\\Resab.csproj",
         "projectName": "Resab",
-        "projectPath": "C:\\dotnet\\codejam2020\\Resab\\Resab.csproj",
+        "projectPath": "C:\\Users\\sahos\\dotnet\\codejam2020\\Resab\\Resab.csproj",
         "packagesPath": "C:\\Users\\sahos\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\codejam2020\\Resab\\obj\\",
+        "outputPath": "C:\\Users\\sahos\\dotnet\\codejam2020\\Resab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

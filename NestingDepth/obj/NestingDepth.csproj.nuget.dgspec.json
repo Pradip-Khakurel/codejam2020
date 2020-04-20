@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\codejam2020\\NestingDepth\\NestingDepth.csproj": {}
+    "C:\\Users\\sahos\\dotnet\\codejam2020\\NestingDepth\\NestingDepth.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\codejam2020\\NestingDepth\\NestingDepth.csproj": {
+    "C:\\Users\\sahos\\dotnet\\codejam2020\\NestingDepth\\NestingDepth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\codejam2020\\NestingDepth\\NestingDepth.csproj",
+        "projectUniqueName": "C:\\Users\\sahos\\dotnet\\codejam2020\\NestingDepth\\NestingDepth.csproj",
         "projectName": "NestingDepth",
-        "projectPath": "C:\\dotnet\\codejam2020\\NestingDepth\\NestingDepth.csproj",
+        "projectPath": "C:\\Users\\sahos\\dotnet\\codejam2020\\NestingDepth\\NestingDepth.csproj",
         "packagesPath": "C:\\Users\\sahos\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\codejam2020\\NestingDepth\\obj\\",
+        "outputPath": "C:\\Users\\sahos\\dotnet\\codejam2020\\NestingDepth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

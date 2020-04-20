@@ -11,3 +11,16 @@ C:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.AssemblyInfo.c
 C:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.dll
 C:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.pdb
 c:\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.genruntimeconfig.cache
+C:\Users\sahos\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.exe
+C:\Users\sahos\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.deps.json
+C:\Users\sahos\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.runtimeconfig.json
+C:\Users\sahos\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.runtimeconfig.dev.json
+C:\Users\sahos\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.dll
+C:\Users\sahos\dotnet\codejam2020\Vestigium\bin\Debug\netcoreapp3.1\Vestigium.pdb
+C:\Users\sahos\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.csprojAssemblyReference.cache
+C:\Users\sahos\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.csproj.CoreCompileInputs.cache
+C:\Users\sahos\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.AssemblyInfoInputs.cache
+C:\Users\sahos\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.AssemblyInfo.cs
+C:\Users\sahos\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.dll
+C:\Users\sahos\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.pdb
+C:\Users\sahos\dotnet\codejam2020\Vestigium\obj\Debug\netcoreapp3.1\Vestigium.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sahos\dotnet\codejam2020\Expogo\obj\Debug\netcoreapp3.1\Expogo.csprojAssemblyReference.cache
+C:\Users\sahos\dotnet\codejam2020\Expogo\obj\Debug\netcoreapp3.1\Expogo.csproj.CoreCompileInputs.cache
+C:\Users\sahos\dotnet\codejam2020\Expogo\obj\Debug\netcoreapp3.1\Expogo.AssemblyInfoInputs.cache
+C:\Users\sahos\dotnet\codejam2020\Expogo\obj\Debug\netcoreapp3.1\Expogo.AssemblyInfo.cs
+C:\Users\sahos\dotnet\codejam2020\Expogo\bin\Debug\netcoreapp3.1\Expogo.exe
+C:\Users\sahos\dotnet\codejam2020\Expogo\bin\Debug\netcoreapp3.1\Expogo.deps.json
+C:\Users\sahos\dotnet\codejam2020\Expogo\bin\Debug\netcoreapp3.1\Expogo.runtimeconfig.json
+C:\Users\sahos\dotnet\codejam2020\Expogo\bin\Debug\netcoreapp3.1\Expogo.runtimeconfig.dev.json
+C:\Users\sahos\dotnet\codejam2020\Expogo\bin\Debug\netcoreapp3.1\Expogo.dll
+C:\Users\sahos\dotnet\codejam2020\Expogo\bin\Debug\netcoreapp3.1\Expogo.pdb
+C:\Users\sahos\dotnet\codejam2020\Expogo\obj\Debug\netcoreapp3.1\Expogo.dll
+C:\Users\sahos\dotnet\codejam2020\Expogo\obj\Debug\netcoreapp3.1\Expogo.pdb
+C:\Users\sahos\dotnet\codejam2020\Expogo\obj\Debug\netcoreapp3.1\Expogo.genruntimeconfig.cache

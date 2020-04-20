@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\codejam2020\\ParentingPartnering\\ParentingPartnering.csproj": {}
+    "C:\\Users\\sahos\\dotnet\\codejam2020\\ParentingPartnering\\ParentingPartnering.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\codejam2020\\ParentingPartnering\\ParentingPartnering.csproj": {
+    "C:\\Users\\sahos\\dotnet\\codejam2020\\ParentingPartnering\\ParentingPartnering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\codejam2020\\ParentingPartnering\\ParentingPartnering.csproj",
+        "projectUniqueName": "C:\\Users\\sahos\\dotnet\\codejam2020\\ParentingPartnering\\ParentingPartnering.csproj",
         "projectName": "ParentingPartnering",
-        "projectPath": "C:\\dotnet\\codejam2020\\ParentingPartnering\\ParentingPartnering.csproj",
+        "projectPath": "C:\\Users\\sahos\\dotnet\\codejam2020\\ParentingPartnering\\ParentingPartnering.csproj",
         "packagesPath": "C:\\Users\\sahos\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\codejam2020\\ParentingPartnering\\obj\\",
+        "outputPath": "C:\\Users\\sahos\\dotnet\\codejam2020\\ParentingPartnering\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

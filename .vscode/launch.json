@@ -5,20 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": ".NET Core Attach",
-            "type": "coreclr",
-            "request": "attach",
-            "processId": "${command:pickProcess}"
-        },
-        {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/ParentingPartnering/bin/Debug/netcoreapp3.1/ParentingPartnering.dll",
+            "program": "${workspaceFolder}/Expogo/bin/Debug/netcoreapp3.1/Expogo.dll",
             "args": ["<",
                 "input.txt"],
-            "cwd": "${workspaceFolder}/ParentingPartnering",
+            "cwd": "${workspaceFolder}/Expogo",
             "console": "internalConsole",
             "stopAtEntry": false
         },
