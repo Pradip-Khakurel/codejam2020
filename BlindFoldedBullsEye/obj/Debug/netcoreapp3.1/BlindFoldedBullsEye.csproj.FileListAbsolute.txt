@@ -1,0 +1,13 @@
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\obj\Debug\netcoreapp3.1\BlindFoldedBullsEye.csprojAssemblyReference.cache
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\obj\Debug\netcoreapp3.1\BlindFoldedBullsEye.csproj.CoreCompileInputs.cache
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\obj\Debug\netcoreapp3.1\BlindFoldedBullsEye.AssemblyInfoInputs.cache
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\obj\Debug\netcoreapp3.1\BlindFoldedBullsEye.AssemblyInfo.cs
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\bin\Debug\netcoreapp3.1\BlindFoldedBullsEye.exe
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\bin\Debug\netcoreapp3.1\BlindFoldedBullsEye.deps.json
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\bin\Debug\netcoreapp3.1\BlindFoldedBullsEye.runtimeconfig.json
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\bin\Debug\netcoreapp3.1\BlindFoldedBullsEye.runtimeconfig.dev.json
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\bin\Debug\netcoreapp3.1\BlindFoldedBullsEye.dll
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\bin\Debug\netcoreapp3.1\BlindFoldedBullsEye.pdb
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\obj\Debug\netcoreapp3.1\BlindFoldedBullsEye.dll
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\obj\Debug\netcoreapp3.1\BlindFoldedBullsEye.pdb
+C:\Users\sahos\dotnet\codejam2020\BlindFoldedBullsEye\obj\Debug\netcoreapp3.1\BlindFoldedBullsEye.genruntimeconfig.cache

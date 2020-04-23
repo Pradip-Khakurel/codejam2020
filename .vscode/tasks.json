@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Expogo/Expogo.csproj",
+                "${workspaceFolder}/BlindFoldedBullsEye/BlindFoldedBullsEye.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Expogo/Expogo.csproj",
+                "${workspaceFolder}/BlindFoldedBullsEye/BlindFoldedBullsEye.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Expogo/Expogo.csproj",
+                "${workspaceFolder}/BlindFoldedBullsEye/BlindFoldedBullsEye.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

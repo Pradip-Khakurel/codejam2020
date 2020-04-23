@@ -9,10 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Expogo/bin/Debug/netcoreapp3.1/Expogo.dll",
-            "args": ["<",
-                "input.txt"],
-            "cwd": "${workspaceFolder}/Expogo",
+            "program": "${workspaceFolder}/BlindFoldedBullsEye/bin/Debug/netcoreapp3.1/BlindFoldedBullsEye.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/BlindFoldedBullsEye",
             "console": "internalConsole",
             "stopAtEntry": false
         },
